@@ -1,12 +1,19 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on OSWE exam prep, SQL Hound Tooling..
+- 🔭 I’m currently working on OSWE exam prep, WODAT, SQL Hound Tooling...
 
 ### About Me
 
 ID: initroot
 
 ### Recent Project
+[SourceMapping](https://github.com/InitRoot/SourceMapping)
+
+[BurpJSLinkFinder](https://github.com/InitRoot/BurpJSLinkFinder)
+
+[webNTLMSprayer](https://github.com/InitRoot/webntlmSpray)
+
+[WODAT](https://github.com/InitRoot/wodat)
 
 [...Others](https://github.com/InitRoot?tab=repositories)
 
