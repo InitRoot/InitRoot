@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on OSED exam prep, WODAT, Sourcemapper, SQL Hound Tooling...
+- 🔭 I’m currently working WODAT, Sourcemapper, SQL Hound Tooling...
 
 ### 🌐 About Me
 
