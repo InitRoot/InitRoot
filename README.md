@@ -15,6 +15,8 @@ ID: initroot
 
 [WODAT](https://github.com/InitRoot/wodat)
 
+[rustdedup](https://github.com/InitRoot/rustdedup)
+
 [...Others](https://github.com/InitRoot?tab=repositories)
 
 ### 📊 Github Stats
